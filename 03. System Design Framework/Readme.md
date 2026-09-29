@@ -1,5 +1,7 @@
 # Chapter 3: A Framework for System Design Interviews
 
+[中文](./Readme.zh.md)
+
 ## Introduction
 System design interviews are a key part of the hiring process, simulating real-life problem-solving scenarios. These interviews evaluate not just technical skills but also collaboration, communication, and the ability to handle ambiguous requirements.
 

@@ -1,5 +1,7 @@
 # Chapter 2: Back-of-the-Envelope Estimation
 
+[中文](./Readme.zh.md)
+
 ## Introduction
 Back-of-the-envelope estimation is a crucial skill in system design interviews. It involves making quick, rough calculations to assess system capacity or performance. According to Jeff Dean, Google Senior Fellow, these estimates help evaluate whether designs meet requirements through thought experiments and common performance benchmarks.
 
